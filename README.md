@@ -1,6 +1,6 @@
 # Alejandro (Alex) Senges
 
-**Senior SDET | Automation & Systems Developer (Rust/C) | DevOps QA | Holberton Alumni**
+**Systems Developer (Rust/C) | QA Automation | DevOps Learner | Holberton Alumni**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Versatile and results-driven Software Developer with 20+ years of hands-on experience delivering high-impact engineering and quality assurance solutions across Linux and Windows environments. Specialized in API testing, system analysis, and programming, with strong proficiency in DevOps methodologies.
 
-Currently expanding my expertise in systems programming, with a growing interest in Rust, C, and other low-level technologies. I enjoy building tools that help others work better — whether it's through automation, performance profiling, or system-level debugging.
+Currently expanding my expertise in systems programming, with a growing interest in **Rust** (currently learning), **C**, and other low-level technologies. I enjoy building tools that help others work better — whether it's through automation, performance profiling, or system-level debugging.
 
 💬 Always open to collaboration in cross-functional teams and projects where innovation and efficiency meet.
 
@@ -17,11 +17,12 @@ Currently expanding my expertise in systems programming, with a growing interest
 🚀 **My Focus Areas**
 
 - 🔍 API & Systems Testing
-- 🛠️ Rust & C Systems Development
+- 🛠️ C Systems Development
 - ⚙️ DevOps & CI/CD Automation
 - 📊 Monitoring & Observability Tools
 - 🧪 Test Frameworks, Mocking, and Emulation
 - 💡 Efficiency, Debugging, and Architecture Understanding
+- 📚 Learning Rust for systems-level development
 
 ---
 

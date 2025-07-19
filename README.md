@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👨‍💻 Alejandro (Alex) Senges
 
-<!--
-**asenges/asenges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior SDET | Automation & Systems Developer (Rust/C) | DevOps QA | Holberton Alumni**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **About Me**
+
+Versatile and results-driven Software Developer with 20+ years of hands-on experience delivering high-impact engineering and quality assurance solutions across Linux and Windows environments. Specialized in API testing, system analysis, and programming, with strong proficiency in DevOps methodologies.
+
+Currently expanding my expertise in systems programming, with a growing interest in Rust, C, and other low-level technologies. I enjoy building tools that help others work better — whether it's through automation, performance profiling, or system-level debugging.
+
+💬 Always open to collaboration in cross-functional teams and projects where innovation and efficiency meet.
+
+---
+
+🚀 **My Focus Areas**
+
+- 🔍 API & Systems Testing
+- 🛠️ Rust & C Systems Development
+- ⚙️ DevOps & CI/CD Automation
+- 📊 Monitoring & Observability Tools
+- 🧪 Test Frameworks, Mocking, and Emulation
+- 💡 Efficiency, Debugging, and Architecture Understanding
+
+---
+
+📂 **Highlighted Projects (coming soon)**
+
+- `rust-logtail`: A CLI tool in Rust to tail logs and highlight events.
+- `packet-analyzer-rs`: Parse TCP/IP packets and display live headers.
+- `sysmock`: Kernel behavior mocker for QA test simulations.
+- `love2d-prototype`: Lightweight game engine demo with performance metrics.
+- `devops-utils`: Automation utilities in Python and Rust for CI workflows.
+
+➡️ *All repos will include README diagrams, benchmarks, and architecture notes.*
+
+---
+
+📚 **Certifications**
+
+- API Testing – AT*SQA
+- DevOps Testing – AT*SQA
+- OWASP – Sabre Corporation
+- Certified IT Practitioner – IBM
+
+🎓 **Education**
+
+- Holberton School – Associate Software Engineer, Computer Science (2022)
+- Continuing self-study in low-level programming, Rust, and systems design
+
+---
+
+🗓️ **Ongoing Learning & Events**
+
+**IBM Z Xplore Skills Fest** (July 21–25 | Virtual)
+
+- Learn about **AI on IBM Z**
+- Explore different **careers** in mainframe computing
+- Hear from **business leaders** and technical experts on mainframe technologies
+
+A free, no-cost opportunity to expand your knowledge on mainframe architecture and connect with the global developer community.
+
+---
+
+📨 **Let’s Connect**
+
+- LinkedIn: [linkedin.com/in/asenges](https://linkedin.com/in/asenges)
+- GitHub: [github.com/asenges](https://github.com/asenges)
+
+---
+
+🤝 **Now Building:** A rare profile — someone who not only automates and tests but also understands the system’s architecture under the hood.
+
+> _“Automation with insight. Systems with intention.”_

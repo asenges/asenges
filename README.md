@@ -67,10 +67,3 @@ A free, no-cost opportunity to expand your knowledge on mainframe architecture a
 📨 **Let’s Connect**
 
 - LinkedIn: [linkedin.com/in/asenges](https://linkedin.com/in/asenges)
-- GitHub: [github.com/asenges](https://github.com/asenges)
-
----
-
-🤝 **Now Building:** A rare profile — someone who not only automates and tests but also understands the system’s architecture under the hood.
-
-> _“Automation with insight. Systems with intention.”_

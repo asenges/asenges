@@ -1,4 +1,4 @@
-# 👨‍💻 Alejandro (Alex) Senges
+# Alejandro (Alex) Senges
 
 **Senior SDET | Automation & Systems Developer (Rust/C) | DevOps QA | Holberton Alumni**
 

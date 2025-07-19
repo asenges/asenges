@@ -10,7 +10,7 @@ Versatile and results-driven Software Developer with 20+ years of hands-on exper
 
 Currently expanding my expertise in systems programming, with a growing interest in **Rust** (currently learning), **C**, and other low-level technologies. I enjoy building tools that help others work better — whether it's through automation, performance profiling, or system-level debugging.
 
-💬 Always open to collaboration in cross-functional teams and projects where innovation and efficiency meet.
+Always open to collaboration in cross-functional teams and projects where innovation and efficiency meet.
 
 ---
 

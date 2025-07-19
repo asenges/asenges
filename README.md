@@ -34,7 +34,7 @@ Always open to collaboration in cross-functional teams and projects where innova
 - `love2d-prototype`: Lightweight game engine demo with performance metrics.
 - `devops-utils`: Automation utilities in Python and Rust for CI workflows.
 
-➡*All repos will include README diagrams, benchmarks, and architecture notes.*
+*All repos will include README diagrams, benchmarks, and architecture notes.*
 
 ---
 

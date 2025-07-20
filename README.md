@@ -43,7 +43,7 @@ Always open to collaboration in cross-functional teams and projects where innova
 - API Testing – AT*SQA
 - DevOps Testing – AT*SQA
 - OWASP – Sabre Corporation
-- Certified IT Practitioner – IBM
+- Certified Web Professional - Web Developer (CWP) - IBM
 
 🎓 **Education**
 

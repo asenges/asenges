@@ -1,6 +1,6 @@
 # Alejandro (Alex) Senges
 
-**Systems Developer (Rust/C) | QA Automation | DevOps Learner | Holberton Alumni**
+**Software Engineer | QA Automation | DevOps Learner | Holberton Alumni**
 
 ---
 

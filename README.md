@@ -52,18 +52,6 @@ Always open to collaboration in cross-functional teams and projects where innova
 
 ---
 
-🗓️ **Ongoing Learning & Events**
-
-**IBM Z Xplore Skills Fest** (July 21–25 | Virtual)
-
-- Learn about **AI on IBM Z**
-- Explore different **careers** in mainframe computing
-- Hear from **business leaders** and technical experts on mainframe technologies
-
-A free, no-cost opportunity to expand your knowledge on mainframe architecture and connect with the global developer community.
-
----
-
 📨 **Let’s Connect**
 
 - LinkedIn: [linkedin.com/in/asenges](https://linkedin.com/in/asenges)

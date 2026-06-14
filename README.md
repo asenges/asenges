@@ -1,6 +1,6 @@
 # Alejandro (Alex) Senges
 
-**Software Engineer | QA Automation | DevOps Practicioner | Holberton School Alumni**
+**Software Engineer | Backend Automation | DevOps Practicioner | Holberton School Alumni**
 
 ---
 

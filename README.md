@@ -26,16 +26,6 @@ Always open to collaboration in cross-functional teams and projects where innova
 
 ---
 
-**Highlighted Projects (coming soon)**
-
-- `rust-logtail`: A CLI tool in Rust to tail logs and highlight events.
-- `packet-analyzer-rs`: Parse TCP/IP packets and display live headers.
-- `sysmock`: Kernel behavior mocker for QA test simulations.
-- `love2d-prototype`: Lightweight game engine demo with performance metrics.
-- `devops-utils`: Automation utilities in Python and Rust for CI workflows.
-
----
-
 **Certifications**
 
 - Certified Web Professional - Web Developer (CWP) - IBM

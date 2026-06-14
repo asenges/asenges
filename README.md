@@ -4,7 +4,7 @@
 
 ---
 
-🔧 **About Me**
+**About Me**
 
 Versatile and results-driven Software Developer with 20+ years of hands-on experience delivering high-impact engineering and quality assurance solutions across Linux and Windows environments. Specialized in API testing, system analysis, and programming, with strong proficiency in DevOps methodologies.
 
@@ -14,19 +14,19 @@ Always open to collaboration in cross-functional teams and projects where innova
 
 ---
 
-🚀 **My Focus Areas**
+**My Focus Areas**
 
-- 🔍 API & Systems Testing
-- 🛠️ C Systems Development
-- ⚙️ DevOps & CI/CD Automation
-- 📊 Monitoring & Observability Tools
-- 🧪 Test Frameworks, Mocking, and Emulation
-- 💡 Efficiency, Debugging, and Architecture Understanding
-- 📚 Learning Rust for systems-level development
+- API & Systems Testing
+- C Systems Development
+- DevOps & CI/CD Automation
+- Monitoring & Observability Tools
+- Test Frameworks, Mocking, and Emulation
+- Efficiency, Debugging, and Architecture Understanding
+- Learning Rust for systems-level development
 
 ---
 
-📂 **Highlighted Projects (coming soon)**
+**Highlighted Projects (coming soon)**
 
 - `rust-logtail`: A CLI tool in Rust to tail logs and highlight events.
 - `packet-analyzer-rs`: Parse TCP/IP packets and display live headers.
@@ -36,17 +36,17 @@ Always open to collaboration in cross-functional teams and projects where innova
 
 ---
 
-📚 **Certifications**
+**Certifications**
 
 - Certified Web Professional - Web Developer (CWP) - IBM
 
-🎓 **Education**
+**Education**
 
 - Holberton School – Associate Software Engineer, Computer Software Engineering. (2022)
 - Continuing self-study in low-level programming, Rust, and systems design
 
 ---
 
-📨 **Let’s Connect**
+**Let’s Connect**
 
 - LinkedIn: [linkedin.com/in/asenges](https://linkedin.com/in/asenges)

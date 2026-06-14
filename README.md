@@ -45,7 +45,7 @@ Always open to collaboration in cross-functional teams and projects where innova
 
 🎓 **Education**
 
-- Holberton School – Associate Software Engineer, Computer Science (2022)
+- Holberton School – Associate Software Engineer, Computer Software Engineering. (2022)
 - Continuing self-study in low-level programming, Rust, and systems design
 
 ---
